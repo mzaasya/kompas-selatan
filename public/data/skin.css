@@ -1,0 +1,88 @@
+/*Google Font*/
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+/* background color */
+.bg-cs-1{
+  background: #62d2a2;
+}
+
+/* font classes */
+.font-balsamiq {font-family: 'Balsamiq Sans', cursive;}
+.font-comfort {font-family: 'Comfortaa', cursive;}
+.font-roboto {font-family: 'Roboto', sans-serif;}
+.font-nunito {font-family: 'Nunito', sans-serif;}
+.font-quest {font-family: 'Questrial', sans-serif;}
+.font-100 {font-weight: 100;}
+.font-300 {font-weight: 300;}
+.font-700 {font-weight: bold;}
+.font-italic {font-style: italic;}
+.font-09{font-size: 0.9rem;}
+
+/* Universal */
+body{
+    overflow-x: hidden;
+}
+.divider{
+  width: 0;
+  border-right: 1px solid #e3e6f0;
+  height: calc(4.375rem - 2rem);
+  margin: auto 1rem;
+}
+a{
+  text-decoration: none !important;
+}
+.cc-static{
+  background-color: #835331 !important;
+}
+.cc-main{
+  background-color: #835331 !important;
+  transition: 0.1s ease-in-out;
+}
+.cc-main:hover{
+  background-color: #5a3921 !important;
+}
+.tt-static{
+  color: #835331 !important;
+}
+.tt-main{
+  color: #835331 !important;
+  transition: 0.1s ease-in-out;
+}
+.tt-main:hover{
+  color: #5a3921 !important;
+}
+
+/* Navigation Bar */
+
+
+/* Card */
+.card{
+  transition: all 0.2s ease-in-out;
+}
+.all-kg .card:hover{
+  transform: translateY(-10px);
+}
+.dt-kg .card:hover{
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+/* Responsive Media Queries */
+/* @media screen and (min-device-width: 480px) {
+
+    body{padding-top: 0;}
+}
+
+@media screen and (min-device-width: 768px) {
+
+      body{padding-top: 0;}
+}
+
+@media screen and (min-device-width: 1026px) {
+
+      body{padding-top: 5rem;}
+} */
