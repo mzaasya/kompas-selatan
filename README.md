@@ -2,9 +2,9 @@
 
 ## What is KOMPAS SELATAN?
 
-KOMPAS SELATAN is an outdoor community based in Cirebon, Jawa Barat, Indonesia. Mostly doing outdoor activities like camping, hiking, traveling, etc. You can check the web app at [kompas selatan](http://kompas-selatan.com).
+KOMPAS SELATAN is an outdoor community based in Cirebon, Jawa Barat, Indonesia. Mostly doing outdoor activities like camping, hiking, traveling, etc. You can check the web app at [kompas selatan](https://kompas-selatan.com).
 
-Builded using Codeigniter 4 and Bootstrap 4 
+**Builded using Codeigniter 4 and Bootstrap 4**
 
 ## About the Developer
 
